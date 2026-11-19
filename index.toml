@@ -1877,8 +1877,8 @@ hash = "c73bb536b58b8f666f8d6224f1e33626a18a802ac16718aaf13063779b45ef39"
 metafile = true
 
 [[files]]
-file = "mods/cobbleverse-carryover-1.0.0.jar"
-hash = "efa394ac9055223e89dcba08411883b2cafe0da49d65660597e1af99329b916c"
+file = "mods/cobbleverse-carryover-1.1.0.jar"
+hash = "152088af2dd1def0da81a900c9490f35f4fb701e98e149206ee3e0eee3d2356e"
 
 [[files]]
 file = "mods/comforts-fabric-9.0.5+1.21.1.pw.toml"

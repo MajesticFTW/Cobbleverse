@@ -1,12 +1,12 @@
 name = "COBBLEVERSE Server"
 author = "Cobbleverse server"
-version = "1.8.0-2"
+version = "1.8.0-3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98e061b0f39e88265bec88d70d0625db9ddd75dfe07f41a47c5e658821ebf418"
+hash = "98cc20a34e7df276b0717ddfd52117f5b7c553de09510a98633d7d769a0f711d"
 
 [versions]
 fabric = "0.19.5"
