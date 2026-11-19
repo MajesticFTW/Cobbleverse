@@ -258,7 +258,7 @@ hash = "d7dba285d491d48cdf83552274455851c34fbd685cd22f93e9628dd92619ffa2"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "8961a43433779e4c564aa452e42a4000a9f31d699866774d8b63ae2c468ced14"
+hash = "afd22730b12d1a993e3d308fd91b06fca143b302f33ffd0a0942c8bc632625b8"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -1877,6 +1877,10 @@ hash = "c73bb536b58b8f666f8d6224f1e33626a18a802ac16718aaf13063779b45ef39"
 metafile = true
 
 [[files]]
+file = "mods/cobbleverse-carryover-1.0.0.jar"
+hash = "efa394ac9055223e89dcba08411883b2cafe0da49d65660597e1af99329b916c"
+
+[[files]]
 file = "mods/comforts-fabric-9.0.5+1.21.1.pw.toml"
 hash = "e37badb9147f19b6002b47eb89098df8b943872687010c39bbe05f79733646e1"
 metafile = true
@@ -2487,6 +2491,10 @@ metafile = true
 file = "resourcepacks/z DO NOT ENABLE z [Terralith - Credits Only].pw.toml"
 hash = "1fb5bb7ebcbc0410ec80598e6937e7f034ed0ecc4381a69f154e982f1dd32971"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "afd22730b12d1a993e3d308fd91b06fca143b302f33ffd0a0942c8bc632625b8"
 
 [[files]]
 file = "shaderpacks/COBBLEVERSE - Shaders (High Quality).txt"
