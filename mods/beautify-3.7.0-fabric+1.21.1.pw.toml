@@ -1,0 +1,13 @@
+name = "beautify-3.7.0-fabric+1.21.1"
+filename = "beautify-3.7.0-fabric+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/9Uu1nUT3/beautify-3.7.0-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d72710bebdc6daae1b816ecdf640aa965e87c49c647660b7e193251f6bde3e222a468a97b332733c5ef9cd5b5171abca67498955bfdb974ce282dbbd8c0e7c61"
+
+[update]
+[update.modrinth]
+mod-id = "DhSSvaxs"
+version = "9Uu1nUT3"

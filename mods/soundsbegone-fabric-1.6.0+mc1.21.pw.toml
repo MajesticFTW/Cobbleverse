@@ -1,0 +1,13 @@
+name = "soundsbegone-fabric-1.6.0+mc1.21"
+filename = "soundsbegone-fabric-1.6.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOIvwGKz/versions/HJwHCWgs/soundsbegone-fabric-1.6.0%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "63014d860842b561d34a7ff52a103157aa84df7edcbf6198ad1c8a7b4e0bfae91b0f00193b2ce23ecb6c62d1192b9d0ac8a8f3d6339de8fd711a94df4f41f17d"
+
+[update]
+[update.modrinth]
+mod-id = "FOIvwGKz"
+version = "HJwHCWgs"

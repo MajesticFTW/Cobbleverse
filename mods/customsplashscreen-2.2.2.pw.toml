@@ -1,0 +1,13 @@
+name = "customsplashscreen-2.2.2"
+filename = "customsplashscreen-2.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BwFQLeCh/versions/LspxE3dn/customsplashscreen-2.2.2.jar"
+hash-format = "sha512"
+hash = "0cee9fcd1b0afc1eba0e64320871627af944cdb49471e2a9b468abedf871bb5e2cee857a693d39662153e491b46873e92336380291c4769105c48a3c0e975c0c"
+
+[update]
+[update.modrinth]
+mod-id = "BwFQLeCh"
+version = "LspxE3dn"

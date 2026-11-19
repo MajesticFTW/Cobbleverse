@@ -1,0 +1,13 @@
+name = "z DO NOT ENABLE z [MissingMons - Credits Only]"
+filename = "z DO NOT ENABLE z [MissingMons - Credits Only].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jbbBrQVa/versions/EcX7NfgP/MissingMon_v3.6.2%20%5BFloral%20Awakening%20%5D.zip"
+hash-format = "sha512"
+hash = "ea1f691b42e3d62765d868fda759219180dba23290c20af52a058c0047feb97e0cd0cb7628d7facd0170a10b71e00629368ec8c813904b4fee88f00c925b539c"
+
+[update]
+[update.modrinth]
+mod-id = "jbbBrQVa"
+version = "EcX7NfgP"

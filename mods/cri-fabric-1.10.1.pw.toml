@@ -1,0 +1,13 @@
+name = "cri-fabric-1.10.1"
+filename = "cri-fabric-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ou0WNFNa/versions/D5OvVs5P/cri-fabric-1.10.1.jar"
+hash-format = "sha512"
+hash = "2459c53b0fea68f9ffda56a75b69bfe9a7814afaf3ebe26e25460732e4a10ced276ec369fdf5deb7a8eb5da374be35f5230b3185e7c86cc2d135b50e929a01bb"
+
+[update]
+[update.modrinth]
+mod-id = "Ou0WNFNa"
+version = "D5OvVs5P"

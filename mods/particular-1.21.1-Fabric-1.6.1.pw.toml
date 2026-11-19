@@ -1,0 +1,13 @@
+name = "particular-1.21.1-Fabric-1.6.1"
+filename = "particular-1.21.1-Fabric-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/hjHbb49j/particular-1.21.1-Fabric-1.6.1.jar"
+hash-format = "sha512"
+hash = "1265c0cb95e338d736b0ede99ab18e8e85fefaf8a3b2126f4f756960b7e716c2950e325daa67fff95b928f8c8f31c145ea11bbac61f8b6dc545db51323360fa6"
+
+[update]
+[update.modrinth]
+mod-id = "pYFUU6cq"
+version = "hjHbb49j"

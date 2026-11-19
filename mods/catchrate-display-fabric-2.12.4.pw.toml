@@ -1,0 +1,13 @@
+name = "catchrate-display-fabric-2.12.4"
+filename = "catchrate-display-fabric-2.12.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vADO40xp/versions/SSMkJk8v/catchrate-display-fabric-2.12.4.jar"
+hash-format = "sha512"
+hash = "d4b1ca4f65dc602067da0b1243fa7004e5d4a951678e294bb0ecabb2a84dfcab6c2a78f63d689681e5b836e03b9c1f7287e72a04552fe2d15d5360bf823762ab"
+
+[update]
+[update.modrinth]
+mod-id = "vADO40xp"
+version = "SSMkJk8v"

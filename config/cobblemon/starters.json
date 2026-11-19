@@ -1,0 +1,115 @@
+{
+  "allowStarterOnJoin": true,
+  "promptStarterOnceOnly": true,
+  "useConfigStarters": false,
+  "starters": [
+    {
+      "name": "Kanto",
+      "displayName": "cobblemon.starterselection.category.kanto",
+      "pokemon": [
+        "Charmander level=5 held_item=cobblemon:oran_berry",
+        "Squirtle level=5 held_item=cobblemon:oran_berry",
+        "Bulbasaur level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Johto",
+      "displayName": "cobblemon.starterselection.category.johto",
+      "pokemon": [
+        "Cyndaquil level=5 held_item=cobblemon:oran_berry",
+        "Totodile level=5 held_item=cobblemon:oran_berry",
+        "Chikorita level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Hoenn",
+      "displayName": "cobblemon.starterselection.category.hoenn",
+      "pokemon": [
+        "Torchic level=5 held_item=cobblemon:oran_berry",
+        "Mudkip level=5 held_item=cobblemon:oran_berry",
+        "Treecko level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Sinnoh",
+      "displayName": "cobblemon.starterselection.category.sinnoh",
+      "pokemon": [
+        "Chimchar level=5 held_item=cobblemon:oran_berry",
+        "Piplup level=5 held_item=cobblemon:oran_berry",
+        "Turtwig level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Unova",
+      "displayName": "cobblemon.starterselection.category.unova",
+      "pokemon": [
+        "Tepig level=5 held_item=cobblemon:oran_berry",
+        "Oshawott level=5 held_item=cobblemon:oran_berry",
+        "Snivy level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Kalos",
+      "displayName": "cobblemon.starterselection.category.kalos",
+      "pokemon": [
+        "Fennekin level=5 held_item=cobblemon:oran_berry",
+        "Froakie level=5 held_item=cobblemon:oran_berry",
+        "Chespin level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Alola",
+      "displayName": "cobblemon.starterselection.category.alola",
+      "pokemon": [
+        "Litten level=5 held_item=cobblemon:oran_berry",
+        "Popplio level=5 held_item=cobblemon:oran_berry",
+        "Rowlet level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Galar",
+      "displayName": "cobblemon.starterselection.category.galar",
+      "pokemon": [
+        "Scorbunny level=5 held_item=cobblemon:oran_berry",
+        "Sobble level=5 held_item=cobblemon:oran_berry",
+        "Grookey level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Hisui",
+      "displayName": "cobblemon.starterselection.category.hisui_bias",
+      "pokemon": [
+        "Cyndaquil region_bias=hisui level=5 pokeball=ancient_poke_ball held_item=cobblemon:oran_berry",
+        "Oshawott region_bias=hisui level=5 pokeball=ancient_poke_ball held_item=cobblemon:oran_berry",
+        "Rowlet region_bias=hisui level=5 pokeball=ancient_poke_ball held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Paldea",
+      "displayName": "cobblemon.starterselection.category.paldea",
+      "pokemon": [
+        "Fuecoco level=5 held_item=cobblemon:oran_berry",
+        "Quaxly level=5 held_item=cobblemon:oran_berry",
+        "Sprigatito level=5 held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Pallet",
+      "displayName": "Pallet",
+      "pokemon": [
+        "Pikachu level=5 moves=thundershock held_item=cobblemon:oran_berry",
+        "Eevee level=5 held_item=cobblemon:oran_berry",
+        "Pichu level=5 region_bias=alola held_item=cobblemon:oran_berry"
+      ]
+    },
+    {
+      "name": "Lumya",
+      "displayName": "Lumya",
+      "pokemon": [
+        "Bagon level=5 pokeball=great_ball held_item=cobblemon:oran_berry",
+        "Azurill level=5 gender=female pokeball=great_ball held_item=cobblemon:oran_berry",
+        "Budew level=5 gender=female pokeball=great_ball held_item=cobblemon:oran_berry"
+      ]
+    }
+  ]
+}

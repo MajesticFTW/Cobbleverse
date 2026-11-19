@@ -1,0 +1,13 @@
+name = "PokeCenterPCs-DP"
+filename = "PokeCenterPCs-DP.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uVBAvWbW/versions/FeGyT3KG/PokeCenter%20PCs%20v1.2.zip"
+hash-format = "sha512"
+hash = "cf63fb52a0751426b943ecf559b603084e94c6cb89cf60381b0309109f379ea4e53312df8273b2ffc0ee61d626827d986975728d2fea84c57937573c32ce1ae4"
+
+[update]
+[update.modrinth]
+mod-id = "uVBAvWbW"
+version = "FeGyT3KG"

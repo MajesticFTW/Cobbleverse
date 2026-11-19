@@ -1,0 +1,13 @@
+name = "z DO NOT ENABLE z [Hydro Reanimodel - Credits Only]"
+filename = "z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lYp6oiT3/versions/xNDcJiVo/Hydro%20Reanimodel%20Pack%201.02.zip"
+hash-format = "sha512"
+hash = "12c595056643e7e5a48760629c295edfac6928747dbd5d742f1fce8fb042e9f90145e917788b54ae10ecb732bd8fe234b1cc3d401c6efefdb5309d8b2cfd352d"
+
+[update]
+[update.modrinth]
+mod-id = "lYp6oiT3"
+version = "xNDcJiVo"

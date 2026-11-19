@@ -1,0 +1,13 @@
+name = "catchindicator-fabric-3.1.1"
+filename = "catchindicator-fabric-3.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpTcu2PM/versions/FET2GmZK/catchindicator-fabric-3.1.1.jar"
+hash-format = "sha512"
+hash = "c073d4de064d99adfc765600a49b1afd803ffecf462dd6752c61bb944d83a6ee99011fc7d1c84163885ec0529921253b2003b6d6748e90e1fa3a9c2118c8ebcf"
+
+[update]
+[update.modrinth]
+mod-id = "tpTcu2PM"
+version = "FET2GmZK"

@@ -1,0 +1,13 @@
+name = "apexhosting-partner-link-fabric-1.21.1-1.1.1"
+filename = "apexhosting-partner-link-fabric-1.21.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/32A5wpl8/versions/Oq15gOUv/apexhosting-partner-link-fabric-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "2b1fb3a382ef6e06a09fe8c33f145ff3693b12f06707a46f831e231e63de2d795da12ec51ae473bb76c08c293bfae69b454bba55f1abf90914179ea4e3ba128a"
+
+[update]
+[update.modrinth]
+mod-id = "32A5wpl8"
+version = "Oq15gOUv"

@@ -1,0 +1,13 @@
+name = "os-cobblemon-library-fabric-1.5.2"
+filename = "os-cobblemon-library-fabric-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hdkMUPs/versions/hT3yLdDC/os-cobblemon-library-fabric-1.5.2.jar"
+hash-format = "sha512"
+hash = "e85ae53f2b2b9e2a4b8c8ecee4d53238b4e2bb5c4091b23fe66f9092c1251e748761eee52a80a9273cabd01ddcec755977ab0167018c2d1e70deb5ba31548f71"
+
+[update]
+[update.modrinth]
+mod-id = "8hdkMUPs"
+version = "hT3yLdDC"

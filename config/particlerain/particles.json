@@ -1,0 +1,120 @@
+{
+  "rain": {
+    "enabled": false,
+    "opacity": 0.0
+  },
+  "vertical_fog_after_rain": {
+    "enabled": false
+  },
+  "splatter": {
+    "enabled": false
+  },
+  "skittering_dust": {},
+  "smoke": {},
+  "heavy_snow": {
+    "enabled": false
+  },
+  "vertical_fog": {
+    "enabled": false
+  },
+  "streak": {},
+  "fog_after_rain": {
+    "enabled": false
+  },
+  "mist": {
+    "particleStyle": "CUSTOM",
+    "registeredParticleId": "minecraft:cloud",
+    "blockId": "minecraft:dead_bush",
+    "enabled": false,
+    "density": 1.0,
+    "weather": "DURING_WEATHER",
+    "precipitation": [
+      "RAIN"
+    ],
+    "biomeList": {
+      "entries": [],
+      "isWhitelist": true
+    },
+    "blockList": {
+      "entries": [],
+      "isWhitelist": true
+    },
+    "needsSkyAccess": true,
+    "spawnPos": "SKY",
+    "windStrength": 0.1,
+    "stormWindStrength": 0.5,
+    "gravity": 0.1,
+    "rotationAmount": 0.0,
+    "bounciness": 0.0,
+    "lifetime": 3000,
+    "opacity": 1.0,
+    "fadeType": "DISTANCE",
+    "size": 0.5,
+    "distanceScaling": 0.0,
+    "renderType": "TRANSLUCENT",
+    "animateSprites": false,
+    "spriteLocations": [
+      "particlerain:new_custom_particle"
+    ],
+    "tintType": "NONE",
+    "customTint": "#000000",
+    "rotationType": "COPY_CAMERA"
+  },
+  "shrub": {},
+  "mist_after_rain": {
+    "particleStyle": "CUSTOM",
+    "registeredParticleId": "minecraft:cloud",
+    "blockId": "minecraft:dead_bush",
+    "enabled": false,
+    "density": 1.0,
+    "weather": "DURING_WEATHER",
+    "precipitation": [
+      "RAIN"
+    ],
+    "biomeList": {
+      "entries": [],
+      "isWhitelist": true
+    },
+    "blockList": {
+      "entries": [],
+      "isWhitelist": true
+    },
+    "needsSkyAccess": true,
+    "spawnPos": "SKY",
+    "windStrength": 0.1,
+    "stormWindStrength": 0.5,
+    "gravity": 0.1,
+    "rotationAmount": 0.0,
+    "bounciness": 0.0,
+    "lifetime": 3000,
+    "opacity": 1.0,
+    "fadeType": "DISTANCE",
+    "size": 0.5,
+    "distanceScaling": 0.0,
+    "renderType": "TRANSLUCENT",
+    "animateSprites": false,
+    "spriteLocations": [
+      "particlerain:new_custom_particle"
+    ],
+    "tintType": "NONE",
+    "customTint": "#000000",
+    "rotationType": "COPY_CAMERA"
+  },
+  "ripple": {
+    "opacity": 0.29999998
+  },
+  "snow": {
+    "enabled": false
+  },
+  "heavy_rain": {
+    "enabled": false,
+    "opacity": 0.0
+  },
+  "dust": {},
+  "dust_haze": {
+    "enabled": false
+  },
+  "fog": {
+    "enabled": false
+  }
+}

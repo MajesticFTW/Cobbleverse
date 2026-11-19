@@ -1,0 +1,13 @@
+name = "bettersearch-fabric-1.21.1-1.6.4"
+filename = "bettersearch-fabric-1.21.1-1.6.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/URxm65AM/versions/OItGJPzu/bettersearch-fabric-1.21.1-1.6.4.jar"
+hash-format = "sha512"
+hash = "68aa73d2484cc959a1212d371ce45fee1630abfd1606d46b919d2020ef5a6bf4cf93d219dfecfa77baab8179037d55ee0a8e1768ccc18e109ed323560c513b21"
+
+[update]
+[update.modrinth]
+mod-id = "URxm65AM"
+version = "OItGJPzu"
