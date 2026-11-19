@@ -3,6 +3,6 @@ filename = "COBBLEVERSE Soundtrack.zip"
 side = "client"
 
 [download]
-url = "https://github.com/MajesticFTW/Cobbleverse/releases/download/soundtrack-v1/COBBLEVERSE-Soundtrack.zip"
+url = "https://github.com/MajesticFTW/Cobbleverse/releases/download/soundtrack-v1/COBBLEVERSE.Soundtrack.zip"
 hash-format = "sha512"
 hash = "7d2c5226705acb30e0de90a05dac5ff92ff4c17ca705041fe08394238d1fae25c901fda1cf26f2eaf8a62c8a7c9ce516f3c20abfd846e2be0c50fc2356d984f3"
